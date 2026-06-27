@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopwatchApp.Tests", "Stopw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopwatchApp.UI", "StopwatchApp.UI\StopwatchApp.UI.csproj", "{0668CBEE-8612-4D42-B9B9-4DCCA2D9D7F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopwatchApp.Console", "StopwatchApp.Console\StopwatchApp.Console.csproj", "{35A3676C-178F-4249-B748-B0E45F58BE46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{0668CBEE-8612-4D42-B9B9-4DCCA2D9D7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0668CBEE-8612-4D42-B9B9-4DCCA2D9D7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0668CBEE-8612-4D42-B9B9-4DCCA2D9D7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A3676C-178F-4249-B748-B0E45F58BE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A3676C-178F-4249-B748-B0E45F58BE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A3676C-178F-4249-B748-B0E45F58BE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A3676C-178F-4249-B748-B0E45F58BE46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
